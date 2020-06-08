@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ Vektor.cc vektortest.cc -o vektortest; ./vektortest"
